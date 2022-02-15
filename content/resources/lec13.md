@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This ZIP file contains: 1 .java file.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-204-computer-algorithms-in-systems-engineering-spring-2010/e03a829a487353f0ad9550a42b95a57f_lec13.zip
+file: /media/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/e03a829a487353f0ad9550a42b95a57f_lec13.zip
 file_type: application/zip
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: lec13.zip
 uid: e03a829a-4873-53f0-ad95-50a42b95a57f
