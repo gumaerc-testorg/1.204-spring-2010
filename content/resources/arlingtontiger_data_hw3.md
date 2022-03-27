@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Other
 title: ArlingtonTiger_Data_HW3.zip
 uid: b9ac25ca-d827-1f55-400b-6b6c4241f49a

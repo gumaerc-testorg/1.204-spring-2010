@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Other
 title: Arlington1204RawData.zip
 uid: c879f74f-1808-a5cb-167c-e139bab3d795

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5c600c3e-8c80-e984-8a10-ac99c18efd48
 resourcetype: Other
 title: lec22_BFGS.zip
 uid: 2acd4c26-cec3-15f5-9825-ca7600b67d5c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Other
 title: itemweights.zip
 uid: ea201e28-f995-d90d-d40f-e00b16fd3513

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Document
 title: MIT1_204S10_assn8.pdf
 uid: f0c8b46b-fbae-79f0-3245-35d5bb1122de

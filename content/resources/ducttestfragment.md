@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86bee70a-9661-c040-b705-41a347d30982
 resourcetype: Other
 title: DuctTestFragment.zip
 uid: 7498c922-5d5a-550f-9ab0-d6f00914e869
