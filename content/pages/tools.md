@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on several tools used for the course,
+  including Java, Eclipse, Visual Paradigm, SQL Server 2008 Express, and JDBC Driver.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
 title: Tools
 uid: a675da2d-2051-75bc-6b2a-1f91a9ec3fd4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Java{{< sup "TM" >}} and Eclipse

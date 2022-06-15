@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, quizzes, and problem
+  set due dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 4d38cf75-d484-3a4e-2d2d-6fb8aefa0b9b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

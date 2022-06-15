@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the list of course textbooks and the schedule of
+  reading assignments by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 61c65b64-db12-7753-982f-e00bdc852e3b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
