@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the course assignments and supporting files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 86bee70a-9661-c040-b705-41a347d30982
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -34,9 +42,9 @@ Intercity passenger rail schedules
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn1))
+({{% resource_link 40ddf8b1-8ad0-2850-a268-615a36d45e05 "PDF" %}})
 
-([TXT](/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/assignments/acela.txt))
+({{% resource_link c1bc71c8-53a9-d005-3857-6bc0939feff7 "TXT" %}})
 
 
 {{< tdclose >}}
@@ -52,9 +60,9 @@ Municipal database
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn2))
+({{% resource_link 2ad074f9-ec1e-4418-2ba7-67e0a73b0b04 "PDF" %}})
 
-([ZIP - 2.5MB]({{< baseurl >}}/resources/arlington1204rawdata)) (This ZIP file contains: 1 .mdf file and 1 .ldf file.)
+({{% resource_link c879f74f-1808-a5cb-167c-e139bab3d795 "ZIP - 2.5MB" %}}) (This ZIP file contains: 1 .mdf file and 1 .ldf file.)
 
 
 {{< tdclose >}}
@@ -70,9 +78,9 @@ Municipal network
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn3))
+({{% resource_link ee8161f0-b7a1-5945-24cc-8b0f751540cf "PDF" %}})
 
-([ZIP]({{< baseurl >}}/resources/arlingtontiger_data_hw3)) (This ZIP file contains: 1 .mdf file and 1 .ldf file.)
+({{% resource_link b9ac25ca-d827-1f55-400b-6b6c4241f49a "ZIP" %}}) (This ZIP file contains: 1 .mdf file and 1 .ldf file.)
 
 
 {{< tdclose >}}
@@ -88,9 +96,9 @@ Satellite data sets
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn4))
+({{% resource_link 17a49f52-ed4b-00a6-2e76-e311231dc0a7 "PDF" %}})
 
-([JAVA]({{< baseurl >}}/resources/mergemainfragment))
+({{% resource_link 15224b89-b91d-e455-96f8-cb9a0c1dbe10 "JAVA" %}})
 
 
 {{< tdclose >}}
@@ -104,7 +112,7 @@ Satellite data sets
 Project management
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn5))
+({{% resource_link b5a50a91-81b9-7500-e8d6-d05bef481e24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,9 +126,9 @@ Dynamic programming: Building ventilation design
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn6))
+({{% resource_link e8dad27e-2046-9349-78f4-0d703e7d71ba "PDF" %}})
 
-([ZIP]({{< baseurl >}}/resources/ducttestfragment)) (This ZIP file contains: 1 .java file.)
+({{% resource_link 7498c922-5d5a-550f-9ab0-d6f00914e869 "ZIP" %}}) (This ZIP file contains: 1 .java file.)
 
 
 {{< tdclose >}}
@@ -136,9 +144,9 @@ Branch and bound: Staging building materials
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn7))
+({{% resource_link 4cab1b29-f4d6-fd94-feb1-5b5ae18f7bc6 "PDF" %}})
 
-([ZIP]({{< baseurl >}}/resources/itemweights)) (This ZIP file contains: 1 .txt file.)
+({{% resource_link ea201e28-f995-d90d-d40f-e00b16fd3513 "ZIP" %}}) (This ZIP file contains: 1 .txt file.)
 
 
 {{< tdclose >}}
@@ -152,7 +160,7 @@ Branch and bound: Staging building materials
 Nonlinear optimization: Bus system design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_204s10_assn8))
+({{% resource_link f0c8b46b-fbae-79f0-3245-35d5bb1122de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
