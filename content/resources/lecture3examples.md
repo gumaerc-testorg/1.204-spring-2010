@@ -5,6 +5,7 @@ file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/3ada
 file_type: text/x-sql
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for lecture 3.
-

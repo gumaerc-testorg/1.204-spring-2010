@@ -5,6 +5,7 @@ file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/c879
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This ZIP file contains: 1 .mdf file and 1 .ldf file.
-
