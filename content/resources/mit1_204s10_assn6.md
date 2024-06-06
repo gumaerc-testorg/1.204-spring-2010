@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to building ventilation
   design.
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/e8dad27e2046934978f40d703e7d71ba_MIT1_204S10_assn6.pdf
+file_size: 141781
 file_type: application/pdf
 learning_resource_types:
 - Assignments

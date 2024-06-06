@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/fada838b3b239f34ccb9ebbf5208b887_lec15.zip
+file_size: 2601
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
