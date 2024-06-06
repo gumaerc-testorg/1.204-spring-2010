@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem statements related to intercity passenger
   rail schedules.
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/40ddf8b18ad02850a268615a36d45e05_MIT1_204S10_assn1.pdf
+file_size: 39449
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for problem set 1.
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/c1bc71c853a9d00538576bc0939feff7_acela.txt
+file_size: 1604
 file_type: text/plain
 learning_resource_types:
 - Assignments

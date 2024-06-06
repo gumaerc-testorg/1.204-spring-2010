@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This ZIP file contains: 2 .java files.'
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/3df0fe8c2c5522f53fea79f74f22e2d4_lec10.zip
+file_size: 2290
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
