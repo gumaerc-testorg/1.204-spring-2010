@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements related to satellite data sets.
-file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/17a49f52ed4b00a62e76e311231dc0a7_MIT1_204S10_assn4.pdf
+file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/17a49f52ed4b00a62e76e311231dc0a7_MIT1_204S10_assn4.pdf
 file_size: 188623
 file_type: application/pdf
 learning_resource_types:
