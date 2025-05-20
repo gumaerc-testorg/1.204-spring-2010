@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 3.
-file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/7d7c3ccb9500936314481eced135637f_Lecture3CreateDB.sql
+file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/7d7c3ccb9500936314481eced135637f_Lecture3CreateDB.sql
 file_size: 2600
 file_type: text/x-sql
 learning_resource_types:
