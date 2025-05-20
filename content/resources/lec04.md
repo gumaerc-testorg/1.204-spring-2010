@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This ZIP file contains: 11 .java files.'
-file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/6f943c0c9f65095b2f1e499806c5ab93_lec04.zip
+file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/6f943c0c9f65095b2f1e499806c5ab93_lec04.zip
 file_size: 8634
 file_type: application/zip
 learning_resource_types:

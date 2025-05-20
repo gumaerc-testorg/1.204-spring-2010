@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This ZIP file contains: 1 .mdf file and 1 .ldf file.'
-file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/b9ac25cad8271f55400b6b6c4241f49a_ArlingtonTiger_Data_HW3.zip
+file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/b9ac25cad8271f55400b6b6c4241f49a_ArlingtonTiger_Data_HW3.zip
 file_size: 513985
 file_type: application/zip
 learning_resource_types:

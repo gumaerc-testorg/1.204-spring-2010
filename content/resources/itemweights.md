@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This ZIP file contains: 1 .txt file.'
-file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/ea201e28f995d90dd40fe00b16fd3513_itemweights.zip
+file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/ea201e28f995d90dd40fe00b16fd3513_itemweights.zip
 file_size: 206
 file_type: application/zip
 learning_resource_types:
