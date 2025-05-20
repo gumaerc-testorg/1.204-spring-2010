@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements.
-file: /ol-ocw-studio-app/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/f0c8b46bfbae79f0324535d5bb1122de_MIT1_204S10_assn8.pdf
+file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/f0c8b46bfbae79f0324535d5bb1122de_MIT1_204S10_assn8.pdf
 file_size: 143503
 file_type: application/pdf
 learning_resource_types:
